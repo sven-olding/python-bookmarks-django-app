@@ -1,4 +1,4 @@
-# Example Django Blog Application
+# Example Django Bookmarks Application
 
 This application uses uv as a package manager
 
